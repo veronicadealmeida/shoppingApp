@@ -1,3 +1,5 @@
+package desafio.veronica;
+
 import java.util.ArrayList;
 
 public class Shopping {
